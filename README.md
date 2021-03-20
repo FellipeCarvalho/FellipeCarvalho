@@ -3,11 +3,11 @@
  
 # Heey!
  
-## Sou Fellipe Carvalho [https://fellipecarvalho.com]
+## Sou Fellipe Carvalho
 ### Web developer, Assíduo estudante & Entusiasta de tecnologia
  
 - :briefcase: Atualmente eu trabalho como Freelancer.
-- :star: Atualmente focado no frontend de aplicações web com react com backend em Nodejs
+- :star: Focado no frontend de aplicações web com react com backend em Nodejs
 
 
 
