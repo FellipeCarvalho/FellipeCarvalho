@@ -1,5 +1,5 @@
 
- <img align="right" width="350" height="350" src="https://fellipecarvalho.com/images/undraw/hero.svg">
+ <img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
 
 # Heey, bem vindo!
 ## Sou Fellipe Carvalho
