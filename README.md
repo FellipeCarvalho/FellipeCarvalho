@@ -6,9 +6,8 @@
  
 Na busca do próximo nível no desenvolvimento web, me divirto programando e sempre estou na busca de desafios no mundo da tecnologia.
  
-## About me 
+## Redes
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)
  
 - Obrigado pela Visita o/
 - 
