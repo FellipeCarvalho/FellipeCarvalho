@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://fellipecarvalho.com/images/undraw/hero.svg">
+<img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
  
 
 # Heey!
