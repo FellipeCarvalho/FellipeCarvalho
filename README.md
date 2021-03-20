@@ -1,52 +1,17 @@
 
 <img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
  
-# Hey!
+# Heey!
  
-## Eu sou Fellipe Carvalho 
+## Eu sou Fellipe Carvalho
+### Eu sou Web developer, Assíduo estudante & Entusiasta de tecnologia .
  
-… Insira suas descrições aqui!
- 
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
-
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)](mailto:fellipealbert3@gmail.com/)
-
-<p align="center">
-  <img src="https://fellipecarvalho.com/images/undraw/hero.svg" width="350" title="hover text">
-</p>
-
-Sempre na busca de desafios que me façam pular da cama de manhã.
-
-Assíduo estudante das novas tecnologias que saem por esse mundo, no momento praticamente comendo conteúdos de Reactjs e Nodejs com farinha pra fazer jobs cada vez mais íncríveis. 
-### Eaí de boa? Eu sou o Guilherme Zago - AKA [MecBonjourno & Founder of the Za Co][website] 👋
-
-## Eu sou Estudante, Developer & Entusiasta de Tecnologia
-- 🔭 Atualmente eu trabalho na [Compasso UOL][website].
+- 🔭 Atualmente eu trabalho como Freelancer.
 - 🌱 Sempre focado em aprender mais sobre desenvolvimento.
 - 👯 Atualmente desenvolvendo em equipes de front-end para o Sicredi.
 - 🥅 Sempre estudando desenvolvimento com React e suas dependencias
-- ⚡  Nas horas vagas eu jogo um CS:GO
 
-### Da uma olhada nas minhas redes socias:
 
-[<img align="left" alt="theza.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Zagoguic | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Guilherme Zago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Zagoguic| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Linguagens e Ferramentas que eu manjo:
 
