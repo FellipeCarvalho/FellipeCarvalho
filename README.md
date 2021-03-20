@@ -6,10 +6,9 @@
 ## Sou Fellipe Carvalho [https://fellipecarvalho.com]
 ### Web developer, Assíduo estudante & Entusiasta de tecnologia
  
-- 🔭 Atualmente eu trabalho como Freelancer.
-- 🌱 Sempre focado em aprender mais sobre desenvolvimento.
-- 👯 Atualmente desenvolvendo em equipes de front-end para o Sicredi.
-- 🥅 Sempre estudando desenvolvimento com React e suas dependencias
+- :briefcase: Atualmente eu trabalho como Freelancer.
+- :books: Sempre focado em aprender mais sobre desenvolvimento.
+- :star: Principal foco nesse momento é o desenvolvimento web com React
 
 
 
