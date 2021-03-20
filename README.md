@@ -6,11 +6,10 @@
  
 Na busca do próximo nível no desenvolvimento web, me divirto programando e sempre estou na busca de desafios no mundo da tecnologia.
  
-## Redes
 [![LinkedIn][linkedin-shield]][linkedin-url]
  
 - Obrigado pela Visita o/
-- 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
