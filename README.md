@@ -1,5 +1,8 @@
 
-## Heey o/, obrigado pela visita e seja bem-vindo(a) ao meu Github!
+## Heey o/
+## Seja bem-vindo(a) ao meu Github!
+
+## Eu sou Fellipe Carvalho, desenvolvedor Web
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipe-carvalho/)](https://www.linkedin.com/in/elisetevidotti/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)](mailto:fellipealbert3@gmail.com/)
 
