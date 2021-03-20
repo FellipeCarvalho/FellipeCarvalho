@@ -4,7 +4,7 @@
 
 ## Eu sou Fellipe Carvalho, desenvolvedor Web
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipe-carvalho/)](https://www.linkedin.com/in/elisetevidotti/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)](mailto:fellipealbert3@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipe-carvalho-6b688190/](https://www.linkedin.com/in/fellipe-carvalho-6b688190/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)](mailto:fellipealbert3@gmail.com/)
 
 <p align="center">
   <img src="https://fellipecarvalho.com/images/undraw/hero.svg" width="350" title="hover text">
