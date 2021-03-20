@@ -7,8 +7,9 @@
 ### Web developer, Assíduo estudante & Entusiasta de tecnologia
  
 - :briefcase: Atualmente eu trabalho como Freelancer.
-- :books: Sempre focado em aprender mais sobre desenvolvimento.
-- :star: Principal foco nesse momento é o desenvolvimento web com React
+- :star: Atualmente focado no frontend de aplicações web com react com backend em Nodejs
+
+
 
 
 
