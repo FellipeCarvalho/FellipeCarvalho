@@ -1,7 +1,7 @@
 
 ## Heey o/
 ### Seja bem-vindo(a) ao meu Github!
-## Eu sou Fellipe Carvalho, desenvolvedor Web
+## Eu sou Fellipe Carvalho, desenvolvedor
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)](mailto:fellipealbert3@gmail.com/)
 
