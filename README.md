@@ -1,12 +1,9 @@
 
-## Heey o/ Eu sou Fellipe Carvalho, desenvolvedor
-#### Seja bem-vindo(a) ao meu Github!
-
 <img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
  
-# Welcome!
+# Hey!
  
-## I'm SEU NOME AQUI!
+## Eu sou Fellipe Carvalho 
  
 … Insira suas descrições aqui!
  
