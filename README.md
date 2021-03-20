@@ -8,7 +8,7 @@ Na busca do próximo nível no desenvolvimento web, me divirto programando e sem
  
 ## About me 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)]
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)
  
 - Obrigado pela Visita o/
 - 
