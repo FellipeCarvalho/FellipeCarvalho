@@ -1,2 +1,16 @@
-# homeGithub
-Home my github
+<img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
+ 
+# Bem vindo!
+ 
+## Sou Fellipe,
+ 
+Na busca do próximo nível, me divirto programando e sempre estou na busca de desafios no mundo da tecnologia.
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/FellipeCarvalho)]
+[![Linkedin Badge](https://www.linkedin.com/in/fellipe-carvalho-6b688190/)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://api.whatsapp.com/send?phone=5541998290782&text=Fala%20Fellipe!%20Te%20achei%20pelo%20Github.%20)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipealbert3@gmail.com)]
+ 
+- Obrigado pela Visita o/
+- 
