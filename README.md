@@ -1,7 +1,7 @@
 
  <img align="right" width="400" height="400" src="https://fellipecarvalho.com/images/undraw/hero.svg">
 
-# Heey, bem vindo!
+# Heey, bem vindo(a)!
 ## Sou Fellipe Carvalho
  
 
