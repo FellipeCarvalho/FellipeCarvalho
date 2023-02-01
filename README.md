@@ -7,7 +7,7 @@
 ### Web developer, assíduo estudante & entusiasta de tecnologia
  
 - :briefcase: Atualmente eu trabalho como frontend na Compasso UOL.
-- :star: Focado no frontend de aplicações web com react e também atuo no backend, nesse momento com foco em java com Spring Boot
+- :star: Focado no frontend de aplicações web com react,  também atuo no backend, nesse momento com foco em java com Spring Boot
 
 
 ### Linguagens que estou me aperfeiçoando cada vez mais:
