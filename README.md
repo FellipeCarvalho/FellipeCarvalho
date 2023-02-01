@@ -3,7 +3,10 @@
 
 # Heey, bem vindo(a)!
 ## Sou Fellipe Carvalho
- 
+ a href="https://github.com/FellipeCarvalho">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FellipeCarvalho&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FellipeCarvalho&layout=compact&langs_count=8&theme=solarized-dark"/>
+  </a>
 
 ### Web developer, Assíduo estudante & Entusiasta de tecnologia
  
