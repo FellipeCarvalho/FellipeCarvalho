@@ -22,3 +22,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+  <a href="https://github.com/FellipeCarvalho">
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FellipeCarvalho&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FellipeCarvalho&layout=compact&langs_count=8&theme=solarized-dark"/>
+  </a>
