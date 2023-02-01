@@ -6,16 +6,11 @@
 
 ### Web developer, Assíduo estudante & Entusiasta de tecnologia
  
-- :briefcase: Atualmente eu trabalho como Frontend na Compasso UOL.
-- :star: Focado no frontend de aplicações web com react e backend em Nodejs
+- :briefcase: Atualmente eu trabalho como frontend na Compasso UOL.
+- :star: Focado no frontend de aplicações web com react e também atuo no backend, nesse momento com foco em java com Spring Boot
 
 
 ### Linguagens que estou me aperfeiçoando cada vez mais:
-  <a href="https://github.com/FellipeCarvalho">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FellipeCarvalho&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FellipeCarvalho&layout=compact&langs_count=8&theme=solarized-dark"/>
-  </a>
-
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
